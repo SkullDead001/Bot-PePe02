@@ -2,8 +2,8 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/BwMZovh3aBS7aLbRz4XSZ0'] // No tiene utilidad 
 global.channelYT = ['https://youtube.com/channel/UCs2ftm01x6Xjwl-ldJB_bhw'] // No tiene utilidad
 global.owner = ['5215568600983'] //Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
-global.mods = ['5217151146391'] //No tiene utilidad
-global.prems = ['5215542478440'] //Podra usar algunos comandos del apartado de propietario
+global.mods = ['5215542478440'] //No tiene utilidad
+global.prems = ['5217151146391'] //Podra usar algunos comandos del apartado de propietario
 
 //Lo siguiente no tiene nada que ver con el funcionamiento del Bot:
 //Nota: Puedes contactarme si necesitas ayuda con algo al +5219996125657 (este es mi numero personal/real bloqueo personas que no sean temas de la instalación)
